@@ -22,7 +22,7 @@ in Main repository run this command :
 g++ Main.cpp && a.out
 ```
 
-in Main repository run this command :
+For MacOsx you should run :
 ```
 g++ Main.cpp rsdl.cpp -F/Library/Frameworks -framework SDL2 -framework SDL2_image -framework SDL2_ttf
 ```
